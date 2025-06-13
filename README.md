@@ -1,6 +1,6 @@
 # pedidos-app
 
-Este es el código del proyecto 
+Este es el código del proyecto.
 
 ## Características
 - Funcionalidades completas
@@ -8,6 +8,5 @@ Este es el código del proyecto
 - Listo para producción
 
 ## Autor
-Luis adolfo leon mendiola
-📘 [Facebook] (https://www.facebook.com/share/18zsrq6G1Z/?mibextid=qi2Omg)
 
+[**Luis Adolfo León Mendiola**](https://www.facebook.com/share/18zsrq6G1Z/?mibextid=qi2Omg)
